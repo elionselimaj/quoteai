@@ -6,3 +6,9 @@ __pycache__/
 # OS / editors
 .DS_Store
 .idea/
+
+# Local notes
+NOTES.md
+CLAUDE.md
+PLAN.md
+docs/plan.md
